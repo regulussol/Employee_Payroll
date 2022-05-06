@@ -6,7 +6,6 @@
 <h4><font color="blue">This repository is updated to Angular 11.0 Now.</font></h4>
 Please install latest Angular 11 cli before starting this project, in case of any issue, please open a GitHub Issue and include detail error screenshots.
 
-<a href="https://youtu.be/sWOXETusJNw" target="_blank">YouTube Video Tutorial !! </a>
 <br/>
 <b>Objective: </b> This document serves as an Installation Guide for Elish HCM Cloud free commmunity version Desktop/Mobile App.<br><br>
 <b>Tools: </b> MEAN Stack (latest) Angular 9.0, NodeJS 10.8, Express, GraphQL and MongoDB 4.0 or MYSQL<br/>
